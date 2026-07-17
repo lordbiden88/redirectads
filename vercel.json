@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://nextadsku.vip/register/",
+      "permanent": false
+    }
+  ]
+}
